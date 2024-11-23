@@ -108,16 +108,7 @@
       </ol>
       <p>Watch your XML data transform into readable text in seconds!</p>
     </section>
-    <section>
-      <h2>Installation</h2>
-      <p>To use this extension:</p>
-      <ol>
-        <li>Download the extension ZIP file from the repository.</li>
-        <li>Unzip the file and load it into Chrome as an unpacked extension.</li>
-        <li>Start extracting text from XML immediately!</li>
-      </ol>
-      <a href="#" class="button">Download Extension</a>
-    </section>
+   
   </main>
 
 </body>
